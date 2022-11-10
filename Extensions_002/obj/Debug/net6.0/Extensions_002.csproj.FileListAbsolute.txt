@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\bin\Debug\net6.0\Extensions_002.exe
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\bin\Debug\net6.0\Extensions_002.deps.json
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\bin\Debug\net6.0\Extensions_002.runtimeconfig.json
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\bin\Debug\net6.0\Extensions_002.dll
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\bin\Debug\net6.0\Extensions_002.pdb
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\obj\Debug\net6.0\Extensions_002.csproj.AssemblyReference.cache
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\obj\Debug\net6.0\Extensions_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\obj\Debug\net6.0\Extensions_002.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\obj\Debug\net6.0\Extensions_002.AssemblyInfo.cs
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\obj\Debug\net6.0\Extensions_002.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\obj\Debug\net6.0\Extensions_002.dll
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\obj\Debug\net6.0\refint\Extensions_002.dll
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\obj\Debug\net6.0\Extensions_002.pdb
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\obj\Debug\net6.0\Extensions_002.genruntimeconfig.cache
+C:\Users\Darya\Desktop\GeekBr\Extensions\Extensions_002\obj\Debug\net6.0\ref\Extensions_002.dll
